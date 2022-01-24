@@ -1,0 +1,11 @@
+#instalar projeto React
+yarn init -y
+yarn add next react react-dom
+
+#Adicionar os scripts no package.json 
+
+#criar o gitignore 
+npx gitignore node
+
+#Iniciar servidor
+yarn start
