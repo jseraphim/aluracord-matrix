@@ -2,10 +2,10 @@
 yarn init -y
 yarn add next react react-dom
 
-#Adicionar os scripts no package.json 
+#Adicionar os scripts no package.json
+ 
+#Criar a pasta 'pages' com o index.js e o que estiver nela será o exibido no navegador 
 
-#criar o gitignore 
-npx gitignore node
 
 #Iniciar servidor
 yarn start
